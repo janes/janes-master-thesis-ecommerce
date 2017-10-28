@@ -1,0 +1,46 @@
+entity Category {
+    description String required,
+    sortOrder Integer,
+    dateAdded LocalDate,
+    dateModified LocalDate,
+    status CategoryStatus
+}
+
+enum CategoryStatus {
+    AVAILABLE, RESTRICTED, DISABLED
+}
+
+entity Image {
+	id String required,
+    URL String required,
+    productId String required
+}
+
+entity Brand {
+	id String required,
+    name String required
+
+}
+
+entity Product {
+	id String required,
+    title String required,
+    Ean String,
+    keywords String,
+    description String required,
+    rating Integer,
+    brandName String required,
+    brandId String required,
+    image String required,
+    dateAdded LocalDate required,
+    dateModified LocalDate
+}
+
+paginate Product with pagination
+service Product with serviceClass
+paginate Category with pagination
+service Category with serviceClass
+paginate Brand with pagination
+service Brand with serviceClass
+paginate Image with pagination
+service Image with serviceClass
