@@ -1,12 +1,16 @@
 package br.com.janes.ecommerce.domain;
 
+import java.io.Serializable;
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Objects;
+
+import javax.validation.constraints.NotNull;
+
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 import org.springframework.data.mongodb.core.mapping.Field;
-import javax.validation.constraints.*;
-import java.io.Serializable;
-import java.time.LocalDate;
-import java.util.Objects;
 
 /**
  * A Product.
@@ -46,6 +50,9 @@ public class Product implements Serializable {
     @NotNull
     @Field("image")
     private String image;
+    
+    @Field("images")
+    private List<Image> images;
 
     @NotNull
     @Field("date_added")
@@ -57,7 +64,7 @@ public class Product implements Serializable {
     @NotNull
     @Field("categories")
     private String categories;
-
+    
     // jhipster-needle-entity-add-field - JHipster will add fields here, do not remove
     public String getId() {
         return id;
@@ -209,9 +216,23 @@ public class Product implements Serializable {
     public void setCategories(String categories) {
         this.categories = categories;
     }
+    
+    public List<Image> getImages() {
+		return this.images;
+	}
+
+	public void setImages(List<Image> images) {
+		this.images = images;
+	}
+	
+	public Product images(List<Image> images) {
+		this.images = images;
+        return this;
+    }
+    
     // jhipster-needle-entity-add-getters-setters - JHipster will add getters and setters here, do not remove
 
-    @Override
+	@Override
     public boolean equals(Object o) {
         if (this == o) {
             return true;

@@ -3,6 +3,8 @@ import { Http, Response } from '@angular/http';
 import { Observable } from 'rxjs/Rx';
 import { SERVER_API_URL } from '../../app.constants';
 
+import { JhiDateUtils } from 'ng-jhipster';
+
 import { Brand } from './brand.model';
 import { ResponseWrapper, createRequestOption } from '../../shared';
 
@@ -11,7 +13,7 @@ export class BrandService {
 
     private resourceUrl = SERVER_API_URL + 'api/brands';
 
-    constructor(private http: Http) { }
+    constructor(private http: Http, private dateUtils: JhiDateUtils) { }
 
     create(brand: Brand): Observable<Brand> {
         const copy = this.convert(brand);
@@ -60,6 +62,10 @@ export class BrandService {
      */
     private convertItemFromServer(json: any): Brand {
         const entity: Brand = Object.assign(new Brand(), json);
+        entity.dateAdded = this.dateUtils
+            .convertLocalDateFromServer(json.dateAdded);
+        entity.dateModified = this.dateUtils
+            .convertLocalDateFromServer(json.dateModified);
         return entity;
     }
 
@@ -68,6 +74,10 @@ export class BrandService {
      */
     private convert(brand: Brand): Brand {
         const copy: Brand = Object.assign({}, brand);
+        copy.dateAdded = this.dateUtils
+            .convertLocalDateToServer(brand.dateAdded);
+        copy.dateModified = this.dateUtils
+            .convertLocalDateToServer(brand.dateModified);
         return copy;
     }
 }

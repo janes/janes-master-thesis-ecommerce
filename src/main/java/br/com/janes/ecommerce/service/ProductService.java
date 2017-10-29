@@ -65,4 +65,15 @@ public class ProductService {
         log.debug("Request to delete Product : {}", id);
         productRepository.delete(id);
     }
+    
+//    /**
+//     * Update a product.
+//     *
+//     * @param product the entity to save
+//     * @return the persisted entity
+//     */
+//    public Product update(Product product) {
+//        log.debug("Request to update Product : {}", product);
+//        return productRepository.update(product);
+//    }
 }

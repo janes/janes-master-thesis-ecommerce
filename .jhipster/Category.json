@@ -26,10 +26,6 @@
             "fieldType": "Boolean"
         },
         {
-            "fieldName": "sortOrder",
-            "fieldType": "Integer"
-        },
-        {
             "fieldName": "dateAdded",
             "fieldType": "LocalDate"
         },

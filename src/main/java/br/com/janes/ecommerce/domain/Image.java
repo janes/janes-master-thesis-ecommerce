@@ -18,12 +18,16 @@ public class Image implements Serializable {
     private String id;
 
     @NotNull
-    @Field("u_rl")
-    private String uRL;
+    @Field("url")
+    private String url;
 
     @NotNull
-    @Field("product_id")
+    @Field("productId")
     private String productId;
+
+    @NotNull
+    @Field("disabled")
+    private Boolean disabled;
 
     // jhipster-needle-entity-add-field - JHipster will add fields here, do not remove
     public String getId() {
@@ -34,17 +38,17 @@ public class Image implements Serializable {
         this.id = id;
     }
 
-    public String getuRL() {
-        return uRL;
+    public String getUrl() {
+        return url;
     }
 
-    public Image uRL(String uRL) {
-        this.uRL = uRL;
+    public Image url(String url) {
+        this.url = url;
         return this;
     }
 
-    public void setuRL(String uRL) {
-        this.uRL = uRL;
+    public void setUrl(String url) {
+        this.url = url;
     }
 
     public String getProductId() {
@@ -58,6 +62,19 @@ public class Image implements Serializable {
 
     public void setProductId(String productId) {
         this.productId = productId;
+    }
+
+    public Boolean isDisabled() {
+        return disabled;
+    }
+
+    public Image disabled(Boolean disabled) {
+        this.disabled = disabled;
+        return this;
+    }
+
+    public void setDisabled(Boolean disabled) {
+        this.disabled = disabled;
     }
     // jhipster-needle-entity-add-getters-setters - JHipster will add getters and setters here, do not remove
 
@@ -85,8 +102,9 @@ public class Image implements Serializable {
     public String toString() {
         return "Image{" +
             "id=" + getId() +
-            ", uRL='" + getuRL() + "'" +
+            ", url='" + getUrl() + "'" +
             ", productId='" + getProductId() + "'" +
+            ", disabled='" + isDisabled() + "'" +
             "}";
     }
 }

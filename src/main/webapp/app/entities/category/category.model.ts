@@ -14,7 +14,6 @@ export class Category implements BaseEntity {
         public parentId?: number,
         public children?: number,
         public hasChildren?: boolean,
-        public sortOrder?: number,
         public dateAdded?: any,
         public dateModified?: any,
         public status?: CategoryStatus,

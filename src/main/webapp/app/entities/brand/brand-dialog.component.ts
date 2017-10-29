@@ -18,6 +18,8 @@ export class BrandDialogComponent implements OnInit {
 
     brand: Brand;
     isSaving: boolean;
+    dateAddedDp: any;
+    dateModifiedDp: any;
 
     constructor(
         public activeModal: NgbActiveModal,

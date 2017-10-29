@@ -15,13 +15,17 @@ enum CategoryStatus {
 
 entity Image {
 	id String required,
-    URL String required,
-    productId String required
+	FileId Integer required, 
+    url String required,
+    productId String required,
+    disabled Boolean required
 }
 
 entity Brand {
 	id String required,
-    name String required
+    name String required,
+    dateAdded LocalDate,
+    dateModified LocalDate
 
 }
 

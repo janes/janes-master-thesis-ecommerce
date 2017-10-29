@@ -11,5 +11,7 @@ import org.springframework.data.mongodb.repository.MongoRepository;
 @SuppressWarnings("unused")
 @Repository
 public interface ProductRepository extends MongoRepository<Product, String> {
+	
+//	Product update(Product product);
 
 }

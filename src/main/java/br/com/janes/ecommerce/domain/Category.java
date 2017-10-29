@@ -27,17 +27,14 @@ public class Category implements Serializable {
     @Field("url")
     private String url;
 
-    @Field("parentId")
+    @Field("parent_id")
     private Integer parentId;
 
     @Field("children")
     private Integer children;
 
-    @Field("hasChildren")
+    @Field("has_children")
     private Boolean hasChildren;
-
-    @Field("sort_order")
-    private Integer sortOrder;
 
     @Field("date_added")
     private LocalDate dateAdded;
@@ -122,19 +119,6 @@ public class Category implements Serializable {
         this.hasChildren = hasChildren;
     }
 
-    public Integer getSortOrder() {
-        return sortOrder;
-    }
-
-    public Category sortOrder(Integer sortOrder) {
-        this.sortOrder = sortOrder;
-        return this;
-    }
-
-    public void setSortOrder(Integer sortOrder) {
-        this.sortOrder = sortOrder;
-    }
-
     public LocalDate getDateAdded() {
         return dateAdded;
     }
@@ -204,7 +188,6 @@ public class Category implements Serializable {
             ", parentId='" + getParentId() + "'" +
             ", children='" + getChildren() + "'" +
             ", hasChildren='" + isHasChildren() + "'" +
-            ", sortOrder='" + getSortOrder() + "'" +
             ", dateAdded='" + getDateAdded() + "'" +
             ", dateModified='" + getDateModified() + "'" +
             ", status='" + getStatus() + "'" +

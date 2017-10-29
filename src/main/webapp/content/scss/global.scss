@@ -216,5 +216,46 @@ ui bootstrap tweaks
     text-overflow: ellipsis;
     white-space: nowrap;
  }
+ 
+.container {
+    width: 600px;
+    height: 360px;
+}
+
+/* resize images */
+.container img {
+    width: 80%;
+    height: auto;
+}
+
+.container2 {
+    width: 100px;
+    height: 90px;
+}
+
+/* resize images */
+.container2 img {
+    width: 100%;
+    height: auto;
+}
+
+.nopad {
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+}
+
+ul.images {
+  margin: 0;
+  padding: 0;
+  white-space: nowrap;
+  width: 900px;
+  overflow-x: auto;
+  background-color: #ddd;
+}
+ul.images li {
+  display: inline;
+  width: 100px;
+  height: 100px;
+}
 
 /* jhipster-needle-scss-add-main JHipster will add new css style */

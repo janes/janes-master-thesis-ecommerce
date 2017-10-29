@@ -71,21 +71,24 @@
                 </small>
             </div>
         </div>
-        <div class="form-group">
-            <label class="form-control-label" for="field_image">Image</label>
-            <input type="text" class="form-control" name="image" id="field_image"
-                [(ngModel)]="product.image" required />
-            <div class="col-sm-6 col-md-4">
-			    <div class="thumbnail center-block">
-			      <img ng-src={{vm.produto.imagem}} ng-alt={{vm.produto.nome}}>
-			    </div>
-		  	</div>
-            <div [hidden]="!(editForm.controls.image?.dirty && editForm.controls.image?.invalid)">
-                <small class="form-text text-danger"
-                   [hidden]="!editForm.controls.image?.errors?.required">
-                   This field is required.
-                </small>
-            </div>
+        
+      <!--   <div class="form-group" *ngFor="let image of product.images ;trackBy: trackId">
+                <td><a [routerLink]="['../product', product.id ]">{{product.id}}</a></td>
+                	<div class="container">
+            			<img [src]="image.uRL" />
+					</div>
+        </div> -->
+        
+        <div class="container" *ngFor="let image of product.images ;trackBy: trackId">
+            <!-- <label class="form-control-label" for="field_image">Image</label> -->
+            <div class="row">
+            	<label for="field_image_disabled{{image.id}}">Desabilitado</label>
+            	<input type="checkbox" [checked]="image.disabled" (change)="image.disabled = !image.disabled" class="content col-sm-4" name="image" id="field_image_disabled{{image.id}}"
+                	required />
+            	<div class="content col-sm-8" >
+            		<img [src]="image.url" />
+				</div>
+			</div>
         </div>
         <div class="form-group">
             <label class="form-control-label" for="field_dateAdded">Date Added</label>

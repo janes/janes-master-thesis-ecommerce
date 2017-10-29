@@ -20,6 +20,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
+import java.time.LocalDate;
+import java.time.ZoneId;
 import java.util.List;
 
 import static br.com.janes.ecommerce.web.rest.TestUtil.createFormattingConversionService;
@@ -39,6 +41,12 @@ public class BrandResourceIntTest {
 
     private static final String DEFAULT_NAME = "AAAAAAAAAA";
     private static final String UPDATED_NAME = "BBBBBBBBBB";
+
+    private static final LocalDate DEFAULT_DATE_ADDED = LocalDate.ofEpochDay(0L);
+    private static final LocalDate UPDATED_DATE_ADDED = LocalDate.now(ZoneId.systemDefault());
+
+    private static final LocalDate DEFAULT_DATE_MODIFIED = LocalDate.ofEpochDay(0L);
+    private static final LocalDate UPDATED_DATE_MODIFIED = LocalDate.now(ZoneId.systemDefault());
 
     @Autowired
     private BrandRepository brandRepository;
@@ -78,7 +86,9 @@ public class BrandResourceIntTest {
      */
     public static Brand createEntity() {
         Brand brand = new Brand()
-            .name(DEFAULT_NAME);
+            .name(DEFAULT_NAME)
+            .dateAdded(DEFAULT_DATE_ADDED)
+            .dateModified(DEFAULT_DATE_MODIFIED);
         return brand;
     }
 
@@ -103,6 +113,8 @@ public class BrandResourceIntTest {
         assertThat(brandList).hasSize(databaseSizeBeforeCreate + 1);
         Brand testBrand = brandList.get(brandList.size() - 1);
         assertThat(testBrand.getName()).isEqualTo(DEFAULT_NAME);
+        assertThat(testBrand.getDateAdded()).isEqualTo(DEFAULT_DATE_ADDED);
+        assertThat(testBrand.getDateModified()).isEqualTo(DEFAULT_DATE_MODIFIED);
     }
 
     @Test
@@ -150,7 +162,9 @@ public class BrandResourceIntTest {
             .andExpect(status().isOk())
             .andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE))
             .andExpect(jsonPath("$.[*].id").value(hasItem(brand.getId())))
-            .andExpect(jsonPath("$.[*].name").value(hasItem(DEFAULT_NAME.toString())));
+            .andExpect(jsonPath("$.[*].name").value(hasItem(DEFAULT_NAME.toString())))
+            .andExpect(jsonPath("$.[*].dateAdded").value(hasItem(DEFAULT_DATE_ADDED.toString())))
+            .andExpect(jsonPath("$.[*].dateModified").value(hasItem(DEFAULT_DATE_MODIFIED.toString())));
     }
 
     @Test
@@ -163,7 +177,9 @@ public class BrandResourceIntTest {
             .andExpect(status().isOk())
             .andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE))
             .andExpect(jsonPath("$.id").value(brand.getId()))
-            .andExpect(jsonPath("$.name").value(DEFAULT_NAME.toString()));
+            .andExpect(jsonPath("$.name").value(DEFAULT_NAME.toString()))
+            .andExpect(jsonPath("$.dateAdded").value(DEFAULT_DATE_ADDED.toString()))
+            .andExpect(jsonPath("$.dateModified").value(DEFAULT_DATE_MODIFIED.toString()));
     }
 
     @Test
@@ -183,7 +199,9 @@ public class BrandResourceIntTest {
         // Update the brand
         Brand updatedBrand = brandRepository.findOne(brand.getId());
         updatedBrand
-            .name(UPDATED_NAME);
+            .name(UPDATED_NAME)
+            .dateAdded(UPDATED_DATE_ADDED)
+            .dateModified(UPDATED_DATE_MODIFIED);
 
         restBrandMockMvc.perform(put("/api/brands")
             .contentType(TestUtil.APPLICATION_JSON_UTF8)
@@ -195,6 +213,8 @@ public class BrandResourceIntTest {
         assertThat(brandList).hasSize(databaseSizeBeforeUpdate);
         Brand testBrand = brandList.get(brandList.size() - 1);
         assertThat(testBrand.getName()).isEqualTo(UPDATED_NAME);
+        assertThat(testBrand.getDateAdded()).isEqualTo(UPDATED_DATE_ADDED);
+        assertThat(testBrand.getDateModified()).isEqualTo(UPDATED_DATE_MODIFIED);
     }
 
     @Test

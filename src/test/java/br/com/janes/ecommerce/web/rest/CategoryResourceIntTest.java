@@ -55,9 +55,6 @@ public class CategoryResourceIntTest {
     private static final Boolean DEFAULT_HAS_CHILDREN = false;
     private static final Boolean UPDATED_HAS_CHILDREN = true;
 
-    private static final Integer DEFAULT_SORT_ORDER = 1;
-    private static final Integer UPDATED_SORT_ORDER = 2;
-
     private static final LocalDate DEFAULT_DATE_ADDED = LocalDate.ofEpochDay(0L);
     private static final LocalDate UPDATED_DATE_ADDED = LocalDate.now(ZoneId.systemDefault());
 
@@ -110,7 +107,6 @@ public class CategoryResourceIntTest {
             .parentId(DEFAULT_PARENT_ID)
             .children(DEFAULT_CHILDREN)
             .hasChildren(DEFAULT_HAS_CHILDREN)
-            .sortOrder(DEFAULT_SORT_ORDER)
             .dateAdded(DEFAULT_DATE_ADDED)
             .dateModified(DEFAULT_DATE_MODIFIED)
             .status(DEFAULT_STATUS);
@@ -142,7 +138,6 @@ public class CategoryResourceIntTest {
         assertThat(testCategory.getParentId()).isEqualTo(DEFAULT_PARENT_ID);
         assertThat(testCategory.getChildren()).isEqualTo(DEFAULT_CHILDREN);
         assertThat(testCategory.isHasChildren()).isEqualTo(DEFAULT_HAS_CHILDREN);
-        assertThat(testCategory.getSortOrder()).isEqualTo(DEFAULT_SORT_ORDER);
         assertThat(testCategory.getDateAdded()).isEqualTo(DEFAULT_DATE_ADDED);
         assertThat(testCategory.getDateModified()).isEqualTo(DEFAULT_DATE_MODIFIED);
         assertThat(testCategory.getStatus()).isEqualTo(DEFAULT_STATUS);
@@ -198,7 +193,6 @@ public class CategoryResourceIntTest {
             .andExpect(jsonPath("$.[*].parentId").value(hasItem(DEFAULT_PARENT_ID)))
             .andExpect(jsonPath("$.[*].children").value(hasItem(DEFAULT_CHILDREN)))
             .andExpect(jsonPath("$.[*].hasChildren").value(hasItem(DEFAULT_HAS_CHILDREN.booleanValue())))
-            .andExpect(jsonPath("$.[*].sortOrder").value(hasItem(DEFAULT_SORT_ORDER)))
             .andExpect(jsonPath("$.[*].dateAdded").value(hasItem(DEFAULT_DATE_ADDED.toString())))
             .andExpect(jsonPath("$.[*].dateModified").value(hasItem(DEFAULT_DATE_MODIFIED.toString())))
             .andExpect(jsonPath("$.[*].status").value(hasItem(DEFAULT_STATUS.toString())));
@@ -219,7 +213,6 @@ public class CategoryResourceIntTest {
             .andExpect(jsonPath("$.parentId").value(DEFAULT_PARENT_ID))
             .andExpect(jsonPath("$.children").value(DEFAULT_CHILDREN))
             .andExpect(jsonPath("$.hasChildren").value(DEFAULT_HAS_CHILDREN.booleanValue()))
-            .andExpect(jsonPath("$.sortOrder").value(DEFAULT_SORT_ORDER))
             .andExpect(jsonPath("$.dateAdded").value(DEFAULT_DATE_ADDED.toString()))
             .andExpect(jsonPath("$.dateModified").value(DEFAULT_DATE_MODIFIED.toString()))
             .andExpect(jsonPath("$.status").value(DEFAULT_STATUS.toString()));
@@ -247,7 +240,6 @@ public class CategoryResourceIntTest {
             .parentId(UPDATED_PARENT_ID)
             .children(UPDATED_CHILDREN)
             .hasChildren(UPDATED_HAS_CHILDREN)
-            .sortOrder(UPDATED_SORT_ORDER)
             .dateAdded(UPDATED_DATE_ADDED)
             .dateModified(UPDATED_DATE_MODIFIED)
             .status(UPDATED_STATUS);
@@ -266,7 +258,6 @@ public class CategoryResourceIntTest {
         assertThat(testCategory.getParentId()).isEqualTo(UPDATED_PARENT_ID);
         assertThat(testCategory.getChildren()).isEqualTo(UPDATED_CHILDREN);
         assertThat(testCategory.isHasChildren()).isEqualTo(UPDATED_HAS_CHILDREN);
-        assertThat(testCategory.getSortOrder()).isEqualTo(UPDATED_SORT_ORDER);
         assertThat(testCategory.getDateAdded()).isEqualTo(UPDATED_DATE_ADDED);
         assertThat(testCategory.getDateModified()).isEqualTo(UPDATED_DATE_MODIFIED);
         assertThat(testCategory.getStatus()).isEqualTo(UPDATED_STATUS);

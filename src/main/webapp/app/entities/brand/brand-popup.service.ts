@@ -26,6 +26,20 @@ export class BrandPopupService {
 
             if (id) {
                 this.brandService.find(id).subscribe((brand) => {
+                    if (brand.dateAdded) {
+                        brand.dateAdded = {
+                            year: brand.dateAdded.getFullYear(),
+                            month: brand.dateAdded.getMonth() + 1,
+                            day: brand.dateAdded.getDate()
+                        };
+                    }
+                    if (brand.dateModified) {
+                        brand.dateModified = {
+                            year: brand.dateModified.getFullYear(),
+                            month: brand.dateModified.getMonth() + 1,
+                            day: brand.dateModified.getDate()
+                        };
+                    }
                     this.ngbModalRef = this.brandModalRef(component, brand);
                     resolve(this.ngbModalRef);
                 });

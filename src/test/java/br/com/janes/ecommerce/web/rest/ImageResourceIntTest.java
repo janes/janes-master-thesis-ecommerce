@@ -37,11 +37,14 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest(classes = EcommerceApp.class)
 public class ImageResourceIntTest {
 
-    private static final String DEFAULT_U_RL = "AAAAAAAAAA";
-    private static final String UPDATED_U_RL = "BBBBBBBBBB";
+    private static final String DEFAULT_URL = "AAAAAAAAAA";
+    private static final String UPDATED_URL = "BBBBBBBBBB";
 
     private static final String DEFAULT_PRODUCT_ID = "AAAAAAAAAA";
     private static final String UPDATED_PRODUCT_ID = "BBBBBBBBBB";
+
+    private static final Boolean DEFAULT_DISABLED = false;
+    private static final Boolean UPDATED_DISABLED = true;
 
     @Autowired
     private ImageRepository imageRepository;
@@ -81,8 +84,9 @@ public class ImageResourceIntTest {
      */
     public static Image createEntity() {
         Image image = new Image()
-            .uRL(DEFAULT_U_RL)
-            .productId(DEFAULT_PRODUCT_ID);
+            .url(DEFAULT_URL)
+            .productId(DEFAULT_PRODUCT_ID)
+            .disabled(DEFAULT_DISABLED);
         return image;
     }
 
@@ -106,8 +110,9 @@ public class ImageResourceIntTest {
         List<Image> imageList = imageRepository.findAll();
         assertThat(imageList).hasSize(databaseSizeBeforeCreate + 1);
         Image testImage = imageList.get(imageList.size() - 1);
-        assertThat(testImage.getuRL()).isEqualTo(DEFAULT_U_RL);
+        assertThat(testImage.getUrl()).isEqualTo(DEFAULT_URL);
         assertThat(testImage.getProductId()).isEqualTo(DEFAULT_PRODUCT_ID);
+        assertThat(testImage.isDisabled()).isEqualTo(DEFAULT_DISABLED);
     }
 
     @Test
@@ -129,10 +134,10 @@ public class ImageResourceIntTest {
     }
 
     @Test
-    public void checkuRLIsRequired() throws Exception {
+    public void checkUrlIsRequired() throws Exception {
         int databaseSizeBeforeTest = imageRepository.findAll().size();
         // set the field null
-        image.setuRL(null);
+        image.setUrl(null);
 
         // Create the Image, which fails.
 
@@ -163,6 +168,23 @@ public class ImageResourceIntTest {
     }
 
     @Test
+    public void checkDisabledIsRequired() throws Exception {
+        int databaseSizeBeforeTest = imageRepository.findAll().size();
+        // set the field null
+        image.setDisabled(null);
+
+        // Create the Image, which fails.
+
+        restImageMockMvc.perform(post("/api/images")
+            .contentType(TestUtil.APPLICATION_JSON_UTF8)
+            .content(TestUtil.convertObjectToJsonBytes(image)))
+            .andExpect(status().isBadRequest());
+
+        List<Image> imageList = imageRepository.findAll();
+        assertThat(imageList).hasSize(databaseSizeBeforeTest);
+    }
+
+    @Test
     public void getAllImages() throws Exception {
         // Initialize the database
         imageRepository.save(image);
@@ -172,8 +194,9 @@ public class ImageResourceIntTest {
             .andExpect(status().isOk())
             .andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE))
             .andExpect(jsonPath("$.[*].id").value(hasItem(image.getId())))
-            .andExpect(jsonPath("$.[*].uRL").value(hasItem(DEFAULT_U_RL.toString())))
-            .andExpect(jsonPath("$.[*].productId").value(hasItem(DEFAULT_PRODUCT_ID.toString())));
+            .andExpect(jsonPath("$.[*].url").value(hasItem(DEFAULT_URL.toString())))
+            .andExpect(jsonPath("$.[*].productId").value(hasItem(DEFAULT_PRODUCT_ID.toString())))
+            .andExpect(jsonPath("$.[*].disabled").value(hasItem(DEFAULT_DISABLED.booleanValue())));
     }
 
     @Test
@@ -186,8 +209,9 @@ public class ImageResourceIntTest {
             .andExpect(status().isOk())
             .andExpect(content().contentType(MediaType.APPLICATION_JSON_UTF8_VALUE))
             .andExpect(jsonPath("$.id").value(image.getId()))
-            .andExpect(jsonPath("$.uRL").value(DEFAULT_U_RL.toString()))
-            .andExpect(jsonPath("$.productId").value(DEFAULT_PRODUCT_ID.toString()));
+            .andExpect(jsonPath("$.url").value(DEFAULT_URL.toString()))
+            .andExpect(jsonPath("$.productId").value(DEFAULT_PRODUCT_ID.toString()))
+            .andExpect(jsonPath("$.disabled").value(DEFAULT_DISABLED.booleanValue()));
     }
 
     @Test
@@ -207,8 +231,9 @@ public class ImageResourceIntTest {
         // Update the image
         Image updatedImage = imageRepository.findOne(image.getId());
         updatedImage
-            .uRL(UPDATED_U_RL)
-            .productId(UPDATED_PRODUCT_ID);
+            .url(UPDATED_URL)
+            .productId(UPDATED_PRODUCT_ID)
+            .disabled(UPDATED_DISABLED);
 
         restImageMockMvc.perform(put("/api/images")
             .contentType(TestUtil.APPLICATION_JSON_UTF8)
@@ -219,8 +244,9 @@ public class ImageResourceIntTest {
         List<Image> imageList = imageRepository.findAll();
         assertThat(imageList).hasSize(databaseSizeBeforeUpdate);
         Image testImage = imageList.get(imageList.size() - 1);
-        assertThat(testImage.getuRL()).isEqualTo(UPDATED_U_RL);
+        assertThat(testImage.getUrl()).isEqualTo(UPDATED_URL);
         assertThat(testImage.getProductId()).isEqualTo(UPDATED_PRODUCT_ID);
+        assertThat(testImage.isDisabled()).isEqualTo(UPDATED_DISABLED);
     }
 
     @Test

@@ -13,12 +13,12 @@
                    [(ngModel)]="image.id" readonly />
         </div>
         <div class="form-group">
-            <label class="form-control-label" for="field_uRL">U RL</label>
-            <input type="text" class="form-control" name="uRL" id="field_uRL"
-                [(ngModel)]="image.uRL" required />
-            <div [hidden]="!(editForm.controls.uRL?.dirty && editForm.controls.uRL?.invalid)">
+            <label class="form-control-label" for="field_url">Url</label>
+            <input type="text" class="form-control" name="url" id="field_url"
+                [(ngModel)]="image.url" required />
+            <div [hidden]="!(editForm.controls.url?.dirty && editForm.controls.url?.invalid)">
                 <small class="form-text text-danger"
-                   [hidden]="!editForm.controls.uRL?.errors?.required">
+                   [hidden]="!editForm.controls.url?.errors?.required">
                    This field is required.
                 </small>
             </div>
@@ -30,6 +30,17 @@
             <div [hidden]="!(editForm.controls.productId?.dirty && editForm.controls.productId?.invalid)">
                 <small class="form-text text-danger"
                    [hidden]="!editForm.controls.productId?.errors?.required">
+                   This field is required.
+                </small>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="form-control-label" for="field_disabled">Disabled</label>
+            <input type="checkbox" class="form-control" name="disabled" id="field_disabled"
+                [(ngModel)]="image.disabled"  />
+            <div [hidden]="!(editForm.controls.disabled?.dirty && editForm.controls.disabled?.invalid)">
+                <small class="form-text text-danger"
+                   [hidden]="!editForm.controls.disabled?.errors?.required">
                    This field is required.
                 </small>
             </div>

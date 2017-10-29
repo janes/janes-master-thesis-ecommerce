@@ -8,6 +8,14 @@
         <dd>
             <span>{{brand.name}}</span>
         </dd>
+        <dt><span>Date Added</span></dt>
+        <dd>
+            <span>{{brand.dateAdded | date:'mediumDate'}}</span>
+        </dd>
+        <dt><span>Date Modified</span></dt>
+        <dd>
+            <span>{{brand.dateModified | date:'mediumDate'}}</span>
+        </dd>
     </dl>
 
     <button type="submit"

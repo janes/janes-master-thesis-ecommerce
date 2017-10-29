@@ -3,7 +3,7 @@
     "relationships": [],
     "fields": [
         {
-            "fieldName": "uRL",
+            "fieldName": "url",
             "fieldType": "String",
             "fieldValidateRules": [
                 "required"
@@ -12,6 +12,13 @@
         {
             "fieldName": "productId",
             "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "disabled",
+            "fieldType": "Boolean",
             "fieldValidateRules": [
                 "required"
             ]
