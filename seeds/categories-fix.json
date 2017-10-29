@@ -1,0 +1,3902 @@
+    {
+        "_id": 1000003,
+        "name": "Brinquedos",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos",
+        "children": [
+            {
+                "_id": 1000004,
+                "name": "Outros Brinquedos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/outros-brinquedos",
+                "children": []
+            },
+            {
+                "_id": 1000006,
+                "name": "Jogos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/jogos",
+                "children": []
+            },
+            {
+                "_id": 1000007,
+                "name": "Instrumentos Musicais Infantis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/instrumentos-musicais-infantis",
+                "children": []
+            },
+            {
+                "_id": 1000009,
+                "name": "Primeira Infância",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/primeira-infancia",
+                "children": []
+            },
+            {
+                "_id": 1000012,
+                "name": "Decorações Infantis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/decoracoes-infantis",
+                "children": []
+            },
+            {
+                "_id": 1000090,
+                "name": "Bonecas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/bonecas",
+                "children": []
+            },
+            {
+                "_id": 1000123,
+                "name": "Brinquedos de Montar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/brinquedos-de-montar",
+                "children": []
+            },
+            {
+                "_id": 1000219,
+                "name": "Bonecos e Figuras de Ação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/bonecos-e-figuras-de-acao",
+                "children": []
+            },
+            {
+                "_id": 1000223,
+                "name": "Autoramas e Pistas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/autoramas-e-pistas",
+                "children": []
+            },
+            {
+                "_id": 1000226,
+                "name": "Mini Veículos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/mini-veiculos",
+                "children": []
+            },
+            {
+                "_id": 1000243,
+                "name": "Praia e Piscina",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/praia-e-piscina",
+                "children": []
+            },
+            {
+                "_id": 1000474,
+                "name": "Bicicletas Infantojuvenis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/bicicletas-infantojuvenis",
+                "children": []
+            },
+            {
+                "_id": 1000727,
+                "name": "Artes e Ativ_idades",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/artes-e-ativ_idades",
+                "children": []
+            },
+            {
+                "_id": 1000868,
+                "name": "Brincadeiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/brincadeiras",
+                "children": []
+            },
+            {
+                "_id": 1000905,
+                "name": "Brinquedos Educativos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/brinquedos-educativos",
+                "children": []
+            },
+            {
+                "_id": 1000910,
+                "name": "Artigos Religiosos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/artigos-religiosos",
+                "children": []
+            },
+            {
+                "_id": 1000915,
+                "name": "Necess_idades Especiais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/necess_idades-especiais",
+                "children": []
+            },
+            {
+                "_id": 1000917,
+                "name": "Brinquedos Eletrônicos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/brinquedos-eletronicos",
+                "children": []
+            },
+            {
+                "_id": 1000963,
+                "name": "Carrinhos e Miniaturas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/carrinhos-e-miniaturas",
+                "children": []
+            },
+            {
+                "_id": 1000995,
+                "name": "Colecionáveis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/colecionaveis",
+                "children": []
+            },
+            {
+                "_id": 1000999,
+                "name": "Moda e Maquiagem",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/moda-e-maquiagem",
+                "children": []
+            },
+            {
+                "_id": 1001001,
+                "name": "Briquedos para Desenhar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/briquedos-para-desenhar",
+                "children": []
+            },
+            {
+                "_id": 1001004,
+                "name": "Pelúcias",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/pelucias",
+                "children": []
+            },
+            {
+                "_id": 1001024,
+                "name": "Controle Remoto",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/controle-remoto",
+                "children": []
+            },
+            {
+                "_id": 1001043,
+                "name": "Esporte Infantil",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/esporte-infantil",
+                "children": []
+            },
+            {
+                "_id": 1001080,
+                "name": "Playground",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/brinquedos/playground",
+                "children": []
+            }
+        ]
+    }
+    
+    {
+        "_id": 1000013,
+        "name": "Eletrodomésticos",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos",
+        "children": [
+            {
+                "_id": 1001940,
+                "name": "Coifas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/coifas",
+                "children": []
+            },
+            {
+                "_id": 1001942,
+                "name": "Adegas de Vinhos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/adegas-de-vinhos",
+                "children": []
+            },
+            {
+                "_id": 1001945,
+                "name": "Centrífugas de Roupas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/centrifugas-de-roupas",
+                "children": []
+            },
+            {
+                "_id": 1001948,
+                "name": "Churrasqueiras e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/churrasqueiras-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001994,
+                "name": "Cooktops",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/cooktops",
+                "children": []
+            },
+            {
+                "_id": 1001998,
+                "name": "Cooler",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/cooler",
+                "children": []
+            },
+            {
+                "_id": 1001999,
+                "name": "Depuradores de Ar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/depuradores-de-ar",
+                "children": []
+            },
+            {
+                "_id": 1002010,
+                "name": "Fogões",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/fogoes",
+                "children": []
+            },
+            {
+                "_id": 1002021,
+                "name": "Fornos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/fornos",
+                "children": []
+            },
+            {
+                "_id": 1002047,
+                "name": "Freezer",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/freezer",
+                "children": []
+            },
+            {
+                "_id": 1002050,
+                "name": "Lavadoras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/lavadoras",
+                "children": []
+            },
+            {
+                "_id": 1002053,
+                "name": "Lava-Louças",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/lava-loucas",
+                "children": []
+            },
+            {
+                "_id": 1002056,
+                "name": "Refrigeradores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/refrigeradores",
+                "children": []
+            },
+            {
+                "_id": 1002088,
+                "name": "Secadoras de Roupas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletrodomesticos/secadoras-de-roupas",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000019,
+        "name": "Saúde e Beleza",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza",
+        "children": [
+            {
+                "_id": 1000021,
+                "name": "Cabelo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/cabelo",
+                "children": []
+            },
+            {
+                "_id": 1000395,
+                "name": "Cu_idados Masculinos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/cu_idados-masculinos",
+                "children": []
+            },
+            {
+                "_id": 1000408,
+                "name": "Cadeira de Rodas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/cadeira-de-rodas",
+                "children": []
+            },
+            {
+                "_id": 1000533,
+                "name": "Cu_idados Femininos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/cu_idados-femininos",
+                "children": []
+            },
+            {
+                "_id": 1000594,
+                "name": "Saúde",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/saude",
+                "children": []
+            },
+            {
+                "_id": 1000667,
+                "name": "Cu_idados Pessoais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/cu_idados-pessoais",
+                "children": []
+            },
+            {
+                "_id": 1000671,
+                "name": "Hospitais, Clínicas e Laboratórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/hospitais-clinicas-e-laboratorios",
+                "children": []
+            },
+            {
+                "_id": 1000745,
+                "name": "Ionizadores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/ionizadores",
+                "children": []
+            },
+            {
+                "_id": 1000746,
+                "name": "Massagem e Relaxamento",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/massagem-e-relaxamento",
+                "children": []
+            },
+            {
+                "_id": 1000767,
+                "name": "Ótica",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/otica",
+                "children": []
+            },
+            {
+                "_id": 1000804,
+                "name": "Reabilitação e Aparelhos Médicos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/saude-e-beleza/reabilitacao-e-aparelhos-medicos",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000025,
+        "name": "Automotivo",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/automotivo",
+        "children": [
+            {
+                "_id": 1000026,
+                "name": "Acessórios para Veículos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/acessorios-para-veiculos",
+                "children": []
+            },
+            {
+                "_id": 1000029,
+                "name": "Conversores e Cabeamentos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/conversores-e-cabeamentos",
+                "children": []
+            },
+            {
+                "_id": 1000034,
+                "name": "GPS",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/gps",
+                "children": []
+            },
+            {
+                "_id": 1001515,
+                "name": "Acessórios de Carros",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/acessorios-de-carros",
+                "children": []
+            },
+            {
+                "_id": 1001566,
+                "name": "Som Automotivo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/som-automotivo",
+                "children": []
+            },
+            {
+                "_id": 1001570,
+                "name": "Tapetes Automotivos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/tapetes-automotivos",
+                "children": []
+            },
+            {
+                "_id": 1001577,
+                "name": "Acessórios para Motos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/acessorios-para-motos",
+                "children": []
+            },
+            {
+                "_id": 1001614,
+                "name": "Acessórios Náuticos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/acessorios-nauticos",
+                "children": []
+            },
+            {
+                "_id": 1001635,
+                "name": "Peças Automotivas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/pecas-automotivas",
+                "children": []
+            },
+            {
+                "_id": 1001657,
+                "name": "Rodas, Pneus e Calotas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/rodas-pneus-e-calotas",
+                "children": []
+            },
+            {
+                "_id": 1001658,
+                "name": "Tuning",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/tuning",
+                "children": []
+            },
+            {
+                "_id": 1001700,
+                "name": "V_idros",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/automotivo/v_idros",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000045,
+        "name": "Esporte e Lazer",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer",
+        "children": [
+            {
+                "_id": 1000046,
+                "name": "Bolsas e Mochilas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/bolsas-e-mochilas",
+                "children": []
+            },
+            {
+                "_id": 1000047,
+                "name": "Arguiles/Narguiles",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/arguiles-narguiles",
+                "children": []
+            },
+            {
+                "_id": 1000048,
+                "name": "Esporte",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/esporte",
+                "children": []
+            },
+            {
+                "_id": 1000095,
+                "name": "Lazer",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/lazer",
+                "children": []
+            },
+            {
+                "_id": 1000101,
+                "name": "Praia,  Camping e Piscina",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/praia--camping-e-piscina",
+                "children": []
+            },
+            {
+                "_id": 1000228,
+                "name": "Fitness e Musculação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/fitness-e-musculacao",
+                "children": []
+            },
+            {
+                "_id": 1000231,
+                "name": "Monitores e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/monitores-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1000247,
+                "name": "Bicicletas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/bicicletas",
+                "children": []
+            },
+            {
+                "_id": 1000966,
+                "name": "Acessórios de Proteção",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/acessorios-de-protecao",
+                "children": []
+            },
+            {
+                "_id": 1000967,
+                "name": "Acessórios de Treino",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/acessorios-de-treino",
+                "children": []
+            },
+            {
+                "_id": 1000987,
+                "name": "Esportes de Raquete",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/esportes-de-raquete",
+                "children": []
+            },
+            {
+                "_id": 1000998,
+                "name": "Esportes Radicais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/esportes-radicais",
+                "children": []
+            },
+            {
+                "_id": 1001034,
+                "name": "Futebol",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/futebol",
+                "children": []
+            },
+            {
+                "_id": 1001052,
+                "name": "Jogos de Salão",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/jogos-de-salao",
+                "children": []
+            },
+            {
+                "_id": 1001065,
+                "name": "Jogos de Tabuleiro e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/jogos-de-tabuleiro-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001066,
+                "name": "Lutas e Artes Marciais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/lutas-e-artes-marciais",
+                "children": []
+            },
+            {
+                "_id": 1001086,
+                "name": "Mergulho",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/mergulho",
+                "children": []
+            },
+            {
+                "_id": 1001101,
+                "name": "Natação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/natacao",
+                "children": []
+            },
+            {
+                "_id": 1001105,
+                "name": "Outros Esportes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/outros-esportes",
+                "children": []
+            },
+            {
+                "_id": 1001120,
+                "name": "Pesca Esportiva",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/pesca-esportiva",
+                "children": []
+            },
+            {
+                "_id": 1001131,
+                "name": "Roupas Esportivas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/roupas-esportivas",
+                "children": []
+            },
+            {
+                "_id": 1001155,
+                "name": "Suplementos Alimentares",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/suplementos-alimentares",
+                "children": []
+            },
+            {
+                "_id": 1001170,
+                "name": "Veículos Motorizados",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/esporte-e-lazer/veiculos-motorizados",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000055,
+        "name": "Ferramentas",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas",
+        "children": [
+            {
+                "_id": 1000056,
+                "name": "Ferramentas Manuais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/ferramentas-manuais",
+                "children": []
+            },
+            {
+                "_id": 1000057,
+                "name": "Ferramentas à bateria",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/ferramentas-a-bateria",
+                "children": []
+            },
+            {
+                "_id": 1000058,
+                "name": "Ferramentas Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/ferramentas-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1000059,
+                "name": "Pintura",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/pintura",
+                "children": []
+            },
+            {
+                "_id": 1000060,
+                "name": "Jardinagem",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/jardinagem",
+                "children": []
+            },
+            {
+                "_id": 1000229,
+                "name": "Lavadoras de Pressão",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/lavadoras-de-pressao",
+                "children": []
+            },
+            {
+                "_id": 1001188,
+                "name": "Compressores de Ar e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/compressores-de-ar-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001192,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001216,
+                "name": "Ferramentas de Medição",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/ferramentas-de-medicao",
+                "children": []
+            },
+            {
+                "_id": 1001223,
+                "name": "Blocos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/blocos",
+                "children": []
+            },
+            {
+                "_id": 1001286,
+                "name": "Ferramentas Pneumáticas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/ferramentas-pneumaticas",
+                "children": []
+            },
+            {
+                "_id": 1003025,
+                "name": "Ferramentas a Combustão",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ferramentas/ferramentas-a-combustao",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000061,
+        "name": "Informática",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/informatica",
+        "children": [
+            {
+                "_id": 1000062,
+                "name": "Fones de Ouv_ido",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/fones-de-ouv_ido",
+                "children": []
+            },
+            {
+                "_id": 1000065,
+                "name": "Pendrives / Cartões de Memória",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/pendrives---cartoes-de-memoria",
+                "children": []
+            },
+            {
+                "_id": 1000066,
+                "name": "Cases / Pastas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/cases---pastas",
+                "children": []
+            },
+            {
+                "_id": 1000067,
+                "name": "Impressoras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/impressoras",
+                "children": []
+            },
+            {
+                "_id": 1000069,
+                "name": "Periféricos e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/perifericos-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1000070,
+                "name": "Tablets",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/tablets",
+                "children": []
+            },
+            {
+                "_id": 1000071,
+                "name": "Games e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/games-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1000072,
+                "name": "Escritório",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/escritorio",
+                "children": []
+            },
+            {
+                "_id": 1000138,
+                "name": "Monitores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/monitores",
+                "children": []
+            },
+            {
+                "_id": 1001420,
+                "name": "Acessórios para Limpeza",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/acessorios-para-limpeza",
+                "children": []
+            },
+            {
+                "_id": 1001421,
+                "name": "Mochilas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/mochilas",
+                "children": []
+            },
+            {
+                "_id": 1001437,
+                "name": "Automação Comercial",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/automacao-comercial",
+                "children": []
+            },
+            {
+                "_id": 1001448,
+                "name": "Computadores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/computadores",
+                "children": []
+            },
+            {
+                "_id": 1001450,
+                "name": "Equipamentos de Rede Wireless",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/equipamentos-de-rede-wireless",
+                "children": []
+            },
+            {
+                "_id": 1001459,
+                "name": "HD Externo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/hd-externo",
+                "children": []
+            },
+            {
+                "_id": 1001465,
+                "name": "iPods e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/ipods-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001472,
+                "name": "Leitor de Livros Digitais (e-Reader)",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/leitor-de-livros-digitais--e-reader-",
+                "children": []
+            },
+            {
+                "_id": 1001478,
+                "name": "Netbook",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/netbook",
+                "children": []
+            },
+            {
+                "_id": 1001480,
+                "name": "Notebook",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/notebook",
+                "children": []
+            },
+            {
+                "_id": 1001481,
+                "name": "Ultrabook",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/ultrabook",
+                "children": []
+            },
+            {
+                "_id": 1001484,
+                "name": "Projetores e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/projetores-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001489,
+                "name": "Proteção Elétrica",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/protecao-eletrica",
+                "children": []
+            },
+            {
+                "_id": 1001493,
+                "name": "Scanner",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/scanner",
+                "children": []
+            },
+            {
+                "_id": 1001494,
+                "name": "Serv_idor",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/serv_idor",
+                "children": []
+            },
+            {
+                "_id": 1001495,
+                "name": "Softwares",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/informatica/softwares",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000049,
+        "name": "Instrumentos Musicais",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais",
+        "children": [
+            {
+                "_id": 1000254,
+                "name": "Equipamentos de Som",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/equipamentos-de-som",
+                "children": []
+            },
+            {
+                "_id": 1000256,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/acessorios",
+                "children": []
+            },
+            {
+                "_id": 1000257,
+                "name": "Capas / Bags",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/capas---bags",
+                "children": []
+            },
+            {
+                "_id": 1000260,
+                "name": "Instrumentos de Corda",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/instrumentos-de-corda",
+                "children": []
+            },
+            {
+                "_id": 1000261,
+                "name": "Instrumentos de Sopro",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/instrumentos-de-sopro",
+                "children": []
+            },
+            {
+                "_id": 1000262,
+                "name": "Instrumentos de Percussão",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/instrumentos-de-percussao",
+                "children": []
+            },
+            {
+                "_id": 1000267,
+                "name": "Iluminação e Decoração",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/iluminacao-e-decoracao",
+                "children": []
+            },
+            {
+                "_id": 1001496,
+                "name": "Áudio",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/audio",
+                "children": []
+            },
+            {
+                "_id": 1001548,
+                "name": "Teclas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/instrumentos-musicais/teclas",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000244,
+        "name": "Pet Shop",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop",
+        "children": [
+            {
+                "_id": 1002688,
+                "name": "Placas Informativas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/placas-informativas",
+                "children": []
+            },
+            {
+                "_id": 1002689,
+                "name": "Cães",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/caes",
+                "children": []
+            },
+            {
+                "_id": 1002711,
+                "name": "Equipamentos para Pet Shop",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/equipamentos-para-pet-shop",
+                "children": []
+            },
+            {
+                "_id": 1002717,
+                "name": "Gatos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/gatos",
+                "children": []
+            },
+            {
+                "_id": 1002729,
+                "name": "Outros Animais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/outros-animais",
+                "children": []
+            },
+            {
+                "_id": 1002734,
+                "name": "Pássaros",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/passaros",
+                "children": []
+            },
+            {
+                "_id": 1002743,
+                "name": "Peixes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/peixes",
+                "children": []
+            },
+            {
+                "_id": 1002748,
+                "name": "Roedores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/roedores",
+                "children": []
+            },
+            {
+                "_id": 1002755,
+                "name": "Uso Veterinário",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/pet-shop/uso-veterinario",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000268,
+        "name": "Ar e Ventilação",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao",
+        "children": [
+            {
+                "_id": 1000269,
+                "name": "Aquecedores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao/aquecedores",
+                "children": []
+            },
+            {
+                "_id": 1000285,
+                "name": "Ar Condicionado",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao/ar-condicionado",
+                "children": []
+            },
+            {
+                "_id": 1000298,
+                "name": "Climatizadores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao/climatizadores",
+                "children": []
+            },
+            {
+                "_id": 1000300,
+                "name": "Cortina de Ar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao/cortina-de-ar",
+                "children": []
+            },
+            {
+                "_id": 1000303,
+                "name": "Tratamento de Ar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao/tratamento-de-ar",
+                "children": []
+            },
+            {
+                "_id": 1000313,
+                "name": "Ventiladores e Circuladores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ar-e-ventilacao/ventiladores-e-circuladores",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000270,
+        "name": "Artesanato",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/artesanato",
+        "children": [
+            {
+                "_id": 1000272,
+                "name": "Agulhas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/agulhas",
+                "children": []
+            },
+            {
+                "_id": 1000284,
+                "name": "Arte e Pintura",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/arte-e-pintura",
+                "children": []
+            },
+            {
+                "_id": 1000305,
+                "name": "Biscuit",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/biscuit",
+                "children": []
+            },
+            {
+                "_id": 1000325,
+                "name": "Bordado",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/bordado",
+                "children": []
+            },
+            {
+                "_id": 1000339,
+                "name": "Crochê e Tricô",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/croche-e-trico",
+                "children": []
+            },
+            {
+                "_id": 1000349,
+                "name": "EVA",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/eva",
+                "children": []
+            },
+            {
+                "_id": 1001345,
+                "name": "Meia de Seda",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/meia-de-seda",
+                "children": []
+            },
+            {
+                "_id": 1001349,
+                "name": "Outros Artesanatos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/outros-artesanatos",
+                "children": []
+            },
+            {
+                "_id": 1001365,
+                "name": "Patch e Costura",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/patch-e-costura",
+                "children": []
+            },
+            {
+                "_id": 1001381,
+                "name": "Tec_ido",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artesanato/tec_ido",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000320,
+        "name": "Artigos para Festas",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/artigos-para-festas",
+        "children": [
+            {
+                "_id": 1000321,
+                "name": "Embalagens Personalizadas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artigos-para-festas/embalagens-personalizadas",
+                "children": []
+            },
+            {
+                "_id": 1000327,
+                "name": "Festa a Fantasia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artigos-para-festas/festa-a-fantasia",
+                "children": []
+            },
+            {
+                "_id": 1000335,
+                "name": "Itens para Decoração",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artigos-para-festas/itens-para-decoracao",
+                "children": []
+            },
+            {
+                "_id": 1000350,
+                "name": "Lembrancinhas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/artigos-para-festas/lembrancinhas",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000000,
+        "name": "Integração",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/integracao",
+        "children": [
+            {
+                "_id": 1000014,
+                "name": "desativado1.3",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/integracao/desativado1-3",
+                "children": []
+            },
+            {
+                "_id": 1000015,
+                "name": "desativado",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/integracao/desativado",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000355,
+        "name": "Áudio",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/audio",
+        "children": [
+            {
+                "_id": 1000144,
+                "name": "Transformadores / Conversores de Voltagens",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/transformadores---conversores-de-voltagens",
+                "children": []
+            },
+            {
+                "_id": 1000356,
+                "name": "Aparelhos de Áudio",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/aparelhos-de-audio",
+                "children": []
+            },
+            {
+                "_id": 1000365,
+                "name": "DVD e Blu-Ray Players",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/dvd-e-blu-ray-players",
+                "children": []
+            },
+            {
+                "_id": 1000371,
+                "name": "Fones de Ouv_ido",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/fones-de-ouv_ido",
+                "children": []
+            },
+            {
+                "_id": 1000378,
+                "name": "Home Theater",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/home-theater",
+                "children": []
+            },
+            {
+                "_id": 1000383,
+                "name": "Mini System",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/mini-system",
+                "children": []
+            },
+            {
+                "_id": 1000384,
+                "name": "MP3 / MP4 players",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/audio/mp3---mp4-players",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000387,
+        "name": "Bebês",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/bebes",
+        "children": [
+            {
+                "_id": 1000388,
+                "name": "Alimentação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/alimentacao",
+                "children": []
+            },
+            {
+                "_id": 1000404,
+                "name": "Babás Eletrônicas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/babas-eletronicas",
+                "children": []
+            },
+            {
+                "_id": 1000405,
+                "name": "Banho do Bebê",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/banho-do-bebe",
+                "children": []
+            },
+            {
+                "_id": 1000430,
+                "name": "Bem-Estar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/bem-estar",
+                "children": []
+            },
+            {
+                "_id": 1000435,
+                "name": "Berços e Cercados",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/bercos-e-cercados",
+                "children": []
+            },
+            {
+                "_id": 1000436,
+                "name": "Calçados para Bebês",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/calcados-para-bebes",
+                "children": []
+            },
+            {
+                "_id": 1000442,
+                "name": "Enxoval para o Bebê",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/enxoval-para-o-bebe",
+                "children": []
+            },
+            {
+                "_id": 1000453,
+                "name": "Higiene e Saúde",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/higiene-e-saude",
+                "children": []
+            },
+            {
+                "_id": 1000462,
+                "name": "Para mamães",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/para-mamaes",
+                "children": []
+            },
+            {
+                "_id": 1000467,
+                "name": "Passeio",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/passeio",
+                "children": []
+            },
+            {
+                "_id": 1000479,
+                "name": "Roupinhas para Bebês",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/roupinhas-para-bebes",
+                "children": []
+            },
+            {
+                "_id": 1000496,
+                "name": "Segurança do Bebê",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/bebes/seguranca-do-bebe",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000493,
+        "name": "Calçados",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/calcados",
+        "children": [
+            {
+                "_id": 1000495,
+                "name": "Acessórios para Calçados",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/acessorios-para-calcados",
+                "children": []
+            },
+            {
+                "_id": 1000497,
+                "name": "Calçados Infantis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/calcados-infantis",
+                "children": []
+            },
+            {
+                "_id": 1000513,
+                "name": "Chinelos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/chinelos",
+                "children": []
+            },
+            {
+                "_id": 1000515,
+                "name": "Femininos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/femininos",
+                "children": []
+            },
+            {
+                "_id": 1000545,
+                "name": "Masculinos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/masculinos",
+                "children": []
+            },
+            {
+                "_id": 1000551,
+                "name": "Sapatênis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/sapatenis",
+                "children": []
+            },
+            {
+                "_id": 1000555,
+                "name": "Tênis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/calcados/tenis",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000509,
+        "name": "Beb_idas",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas",
+        "children": [
+            {
+                "_id": 1000511,
+                "name": "Água",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/agua",
+                "children": []
+            },
+            {
+                "_id": 1000514,
+                "name": "Aguardente, Tequilas e Saquê",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/aguardente-tequilas-e-saque",
+                "children": []
+            },
+            {
+                "_id": 1000626,
+                "name": "Vinhos, Espumante e Champagne",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/vinhos-espumante-e-champagne",
+                "children": []
+            },
+            {
+                "_id": 1000648,
+                "name": "Vodka",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/vodka",
+                "children": []
+            },
+            {
+                "_id": 1000655,
+                "name": "Whisky",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/whisky",
+                "children": []
+            },
+            {
+                "_id": 1003029,
+                "name": "Energéticos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/energeticos",
+                "children": []
+            },
+            {
+                "_id": 1003030,
+                "name": "Chá",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/cha",
+                "children": []
+            },
+            {
+                "_id": 1003034,
+                "name": "Cervejas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/cervejas",
+                "children": []
+            },
+            {
+                "_id": 1003061,
+                "name": "Outras Beb_idas Alcoólicas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/beb_idas/outras-beb_idas-alcoolicas",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000562,
+        "name": "Cama, Mesa e Banho",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho",
+        "children": [
+            {
+                "_id": 1000563,
+                "name": "Acessórios para Cama",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/acessorios-para-cama",
+                "children": []
+            },
+            {
+                "_id": 1000571,
+                "name": "Aventais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/aventais",
+                "children": []
+            },
+            {
+                "_id": 1000572,
+                "name": "Cobertores e Mantas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/cobertores-e-mantas",
+                "children": []
+            },
+            {
+                "_id": 1000577,
+                "name": "Colchas e Cobre-leitos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/colchas-e-cobre-leitos",
+                "children": []
+            },
+            {
+                "_id": 1000582,
+                "name": "Cortinas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/cortinas",
+                "children": []
+            },
+            {
+                "_id": 1000589,
+                "name": "Decorativos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/decorativos",
+                "children": []
+            },
+            {
+                "_id": 1000595,
+                "name": "Edredons",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/edredons",
+                "children": []
+            },
+            {
+                "_id": 1000600,
+                "name": "Enxoval",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/enxoval",
+                "children": []
+            },
+            {
+                "_id": 1000606,
+                "name": "Infanto Juvenil",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/infanto-juvenil",
+                "children": []
+            },
+            {
+                "_id": 1000619,
+                "name": "Jogo de Cama",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/jogo-de-cama",
+                "children": []
+            },
+            {
+                "_id": 1000624,
+                "name": "Lençol Avulso",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/lencol-avulso",
+                "children": []
+            },
+            {
+                "_id": 1000631,
+                "name": "Mesa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/mesa",
+                "children": []
+            },
+            {
+                "_id": 1000644,
+                "name": "Pantufas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/pantufas",
+                "children": []
+            },
+            {
+                "_id": 1000649,
+                "name": "Redes e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/redes-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1000652,
+                "name": "Roupões",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/roupoes",
+                "children": []
+            },
+            {
+                "_id": 1000654,
+                "name": "Tapetes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/tapetes",
+                "children": []
+            },
+            {
+                "_id": 1000666,
+                "name": "Toalhas Avulsas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/toalhas-avulsas",
+                "children": []
+            },
+            {
+                "_id": 1000676,
+                "name": "Toalhas de Banho",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/toalhas-de-banho",
+                "children": []
+            },
+            {
+                "_id": 1000684,
+                "name": "Travesseiros",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cama-mesa-e-banho/travesseiros",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000692,
+        "name": "Cine e Foto",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto",
+        "children": [
+            {
+                "_id": 1000693,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/acessorios",
+                "children": []
+            },
+            {
+                "_id": 1000710,
+                "name": "Acessórios Originais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/acessorios-originais",
+                "children": []
+            },
+            {
+                "_id": 1000720,
+                "name": "Binóculos e Telescópios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/binoculos-e-telescopios",
+                "children": []
+            },
+            {
+                "_id": 1000723,
+                "name": "Câmeras Digitais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/cameras-digitais",
+                "children": []
+            },
+            {
+                "_id": 1000730,
+                "name": "Câmeras Especiais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/cameras-especiais",
+                "children": []
+            },
+            {
+                "_id": 1000738,
+                "name": "Cartões de Memória",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/cartoes-de-memoria",
+                "children": []
+            },
+            {
+                "_id": 1000740,
+                "name": "Drone",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/drone",
+                "children": []
+            },
+            {
+                "_id": 1000743,
+                "name": "Filmadoras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/filmadoras",
+                "children": []
+            },
+            {
+                "_id": 1000744,
+                "name": "Impressoras Fotográficas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/impressoras-fotograficas",
+                "children": []
+            },
+            {
+                "_id": 1000749,
+                "name": "Pilhas, Baterias e Carregadores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/cine-e-foto/pilhas-baterias-e-carregadores",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000758,
+        "name": "DVDs e Blu-Ray",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/dvds-e-blu-ray",
+        "children": [
+            {
+                "_id": 1000759,
+                "name": "Filmes e Seriados",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/dvds-e-blu-ray/filmes-e-seriados",
+                "children": []
+            },
+            {
+                "_id": 1000797,
+                "name": "Músicas e Shows",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/dvds-e-blu-ray/musicas-e-shows",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1000834,
+        "name": "eBooks",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/ebooks",
+        "children": [
+            {
+                "_id": 1000835,
+                "name": "eBooks",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ebooks/ebooks",
+                "children": []
+            },
+            {
+                "_id": 1000899,
+                "name": "Revistas Digitais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/ebooks/revistas-digitais",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001010,
+        "name": "Casa e Construção",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao",
+        "children": [
+            {
+                "_id": 1001177,
+                "name": "Aquecedores a Gás e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/aquecedores-a-gas-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001178,
+                "name": "Banheiro e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/banheiro-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001204,
+                "name": "Cozinha e Lavanderia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/cozinha-e-lavanderia",
+                "children": []
+            },
+            {
+                "_id": 1001217,
+                "name": "Elétrica para Construção",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/eletrica-para-construcao",
+                "children": []
+            },
+            {
+                "_id": 1001334,
+                "name": "Energia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/energia",
+                "children": []
+            },
+            {
+                "_id": 1001335,
+                "name": "Equipamentos para Sauna",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/equipamentos-para-sauna",
+                "children": []
+            },
+            {
+                "_id": 1001336,
+                "name": "Ferragens para Construção",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/ferragens-para-construcao",
+                "children": []
+            },
+            {
+                "_id": 1001340,
+                "name": "Geradores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/geradores",
+                "children": []
+            },
+            {
+                "_id": 1001341,
+                "name": "H_idráulica",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/h_idraulica",
+                "children": []
+            },
+            {
+                "_id": 1001387,
+                "name": "Iluminação de Casa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/iluminacao-de-casa",
+                "children": []
+            },
+            {
+                "_id": 1001414,
+                "name": "Lagos Ornamentais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/lagos-ornamentais",
+                "children": []
+            },
+            {
+                "_id": 1001441,
+                "name": "Materiais de Construção",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/materiais-de-construcao",
+                "children": []
+            },
+            {
+                "_id": 1001456,
+                "name": "Metais e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/metais-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001468,
+                "name": "Pintura e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/pintura-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001501,
+                "name": "Pisos e Revestimentos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/pisos-e-revestimentos",
+                "children": []
+            },
+            {
+                "_id": 1001539,
+                "name": "Portas e Janelas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/portas-e-janelas",
+                "children": []
+            },
+            {
+                "_id": 1001561,
+                "name": "Segurança da Casa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/seguranca-da-casa",
+                "children": []
+            },
+            {
+                "_id": 1001627,
+                "name": "Uniformes Profissionais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/casa-e-construcao/uniformes-profissionais",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001314,
+        "name": "Flores",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/flores",
+        "children": [
+            {
+                "_id": 1001315,
+                "name": "Flores e Buquês",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/flores/flores-e-buques",
+                "children": []
+            },
+            {
+                "_id": 1001319,
+                "name": "Flores e Presentes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/flores/flores-e-presentes",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001322,
+        "name": "Games",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/games",
+        "children": [
+            {
+                "_id": 1001323,
+                "name": "Colecionáveis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/colecionaveis",
+                "children": []
+            },
+            {
+                "_id": 1001329,
+                "name": "Consoles",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/consoles",
+                "children": []
+            },
+            {
+                "_id": 1001330,
+                "name": "Controles e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/controles-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001331,
+                "name": "Download de Jogos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/download-de-jogos",
+                "children": []
+            },
+            {
+                "_id": 1001357,
+                "name": "Nintendo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/nintendo",
+                "children": []
+            },
+            {
+                "_id": 1001364,
+                "name": "Outros Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/outros-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001368,
+                "name": "PC",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/pc",
+                "children": []
+            },
+            {
+                "_id": 1001377,
+                "name": "Playstation",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/playstation",
+                "children": []
+            },
+            {
+                "_id": 1001385,
+                "name": "PS Vita",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/ps-vita",
+                "children": []
+            },
+            {
+                "_id": 1001393,
+                "name": "PSP",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/psp",
+                "children": []
+            },
+            {
+                "_id": 1001399,
+                "name": "Skylanders",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/skylanders",
+                "children": []
+            },
+            {
+                "_id": 1001400,
+                "name": "Xbox",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/xbox",
+                "children": []
+            },
+            {
+                "_id": 1001406,
+                "name": "Zeebo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/games/zeebo",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001648,
+        "name": "Linha Industrial",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial",
+        "children": [
+            {
+                "_id": 1001652,
+                "name": "Aquecimento",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/aquecimento",
+                "children": []
+            },
+            {
+                "_id": 1001656,
+                "name": "Climatização Industrial",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/climatizacao-industrial",
+                "children": []
+            },
+            {
+                "_id": 1001662,
+                "name": "Cocção",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/coccao",
+                "children": []
+            },
+            {
+                "_id": 1001683,
+                "name": "Portáteis Industriais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/portateis-industriais",
+                "children": []
+            },
+            {
+                "_id": 1001851,
+                "name": "Refrigeração",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/refrigeracao",
+                "children": []
+            },
+            {
+                "_id": 1001868,
+                "name": "Utensílios Industriais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/utensilios-industriais",
+                "children": []
+            },
+            {
+                "_id": 1003014,
+                "name": "Carrinho Ambulante",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/linha-industrial/carrinho-ambulante",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001704,
+        "name": "Livros",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/livros",
+        "children": [
+            {
+                "_id": 1001705,
+                "name": "Administração e Negócios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/administracao-e-negocios",
+                "children": []
+            },
+            {
+                "_id": 1001726,
+                "name": "Agronegócio",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/agronegocio",
+                "children": []
+            },
+            {
+                "_id": 1001733,
+                "name": "Animais de Estimação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/animais-de-estimacao",
+                "children": []
+            },
+            {
+                "_id": 1001738,
+                "name": "Arquitetura, Decoração e Design",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/arquitetura-decoracao-e-design",
+                "children": []
+            },
+            {
+                "_id": 1001743,
+                "name": "Artes, Cinema e Teatro",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/artes-cinema-e-teatro",
+                "children": []
+            },
+            {
+                "_id": 1001756,
+                "name": "Audiolivros",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/audiolivros",
+                "children": []
+            },
+            {
+                "_id": 1001797,
+                "name": "Autoajuda e Relacionamentos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/autoajuda-e-relacionamentos",
+                "children": []
+            },
+            {
+                "_id": 1001817,
+                "name": "Biografias, Cartas e Memórias",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/biografias-cartas-e-memorias",
+                "children": []
+            },
+            {
+                "_id": 1001824,
+                "name": "Ciências Biológicas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/ciencias-biologicas",
+                "children": []
+            },
+            {
+                "_id": 1001832,
+                "name": "Ciências Exatas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/ciencias-exatas",
+                "children": []
+            },
+            {
+                "_id": 1001841,
+                "name": "Ciências Humanas e Sociais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/ciencias-humanas-e-sociais",
+                "children": []
+            },
+            {
+                "_id": 1001856,
+                "name": "Ciências Naturais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/ciencias-naturais",
+                "children": []
+            },
+            {
+                "_id": 1001873,
+                "name": "Comunicação e Almanaques",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/comunicacao-e-almanaques",
+                "children": []
+            },
+            {
+                "_id": 1001884,
+                "name": "Concursos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/concursos",
+                "children": []
+            },
+            {
+                "_id": 1001908,
+                "name": "Dicionários",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/dicionarios",
+                "children": []
+            },
+            {
+                "_id": 1001922,
+                "name": "D_idáticos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/d_idaticos",
+                "children": []
+            },
+            {
+                "_id": 1001968,
+                "name": "Direito e Legislação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/direito-e-legislacao",
+                "children": []
+            },
+            {
+                "_id": 1001984,
+                "name": "Economia e Globalização",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/economia-e-globalizacao",
+                "children": []
+            },
+            {
+                "_id": 1001993,
+                "name": "Educação e Aprendizagem",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/educacao-e-aprendizagem",
+                "children": []
+            },
+            {
+                "_id": 1002002,
+                "name": "Engenharia e Tecnologia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/engenharia-e-tecnologia",
+                "children": []
+            },
+            {
+                "_id": 1002025,
+                "name": "Ensino de Línguas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/ensino-de-linguas",
+                "children": []
+            },
+            {
+                "_id": 1002038,
+                "name": "Esoterismo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/esoterismo",
+                "children": []
+            },
+            {
+                "_id": 1002066,
+                "name": "Esportes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/esportes",
+                "children": []
+            },
+            {
+                "_id": 1002096,
+                "name": "Gastronomia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/gastronomia",
+                "children": []
+            },
+            {
+                "_id": 1002115,
+                "name": "História e Geografia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/historia-e-geografia",
+                "children": []
+            },
+            {
+                "_id": 1002124,
+                "name": "História em Quadrinhos, Cards e RPGs",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/historia-em-quadrinhos-cards-e-rpgs",
+                "children": []
+            },
+            {
+                "_id": 1002142,
+                "name": "Informática e Certificação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/informatica-e-certificacao",
+                "children": []
+            },
+            {
+                "_id": 1002167,
+                "name": "Linguística e Oratória",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/linguistica-e-oratoria",
+                "children": []
+            },
+            {
+                "_id": 1002174,
+                "name": "Literatura Estrangeira",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/literatura-estrangeira",
+                "children": []
+            },
+            {
+                "_id": 1002183,
+                "name": "Literatura Infanto-juvenil",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/literatura-infanto-juvenil",
+                "children": []
+            },
+            {
+                "_id": 1002189,
+                "name": "Literatura Nacional",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/literatura-nacional",
+                "children": []
+            },
+            {
+                "_id": 1002198,
+                "name": "Livros Importados",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/livros-importados",
+                "children": []
+            },
+            {
+                "_id": 1002199,
+                "name": "Medicina e Saúde",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/medicina-e-saude",
+                "children": []
+            },
+            {
+                "_id": 1002213,
+                "name": "Moda, Beleza e Dicas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/moda-beleza-e-dicas",
+                "children": []
+            },
+            {
+                "_id": 1002217,
+                "name": "Psicologia e Psicanálise",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/psicologia-e-psicanalise",
+                "children": []
+            },
+            {
+                "_id": 1002233,
+                "name": "Religião",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/religiao",
+                "children": []
+            },
+            {
+                "_id": 1002251,
+                "name": "Revistas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/revistas",
+                "children": []
+            },
+            {
+                "_id": 1002289,
+                "name": "Sexo e Sexologia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/sexo-e-sexologia",
+                "children": []
+            },
+            {
+                "_id": 1002294,
+                "name": "Viagens e Turismo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/viagens-e-turismo",
+                "children": []
+            },
+            {
+                "_id": 1002299,
+                "name": "V_ideoaula",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/livros/v_ideoaula",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001900,
+        "name": "Malas e Mochilas",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas",
+        "children": [
+            {
+                "_id": 1001902,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/acessorios",
+                "children": []
+            },
+            {
+                "_id": 1001910,
+                "name": "Conjuntos de Malas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/conjuntos-de-malas",
+                "children": []
+            },
+            {
+                "_id": 1001912,
+                "name": "Frasqueira",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/frasqueira",
+                "children": []
+            },
+            {
+                "_id": 1001915,
+                "name": "Malas Avulsas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/malas-avulsas",
+                "children": []
+            },
+            {
+                "_id": 1001937,
+                "name": "Mochilas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/mochilas",
+                "children": []
+            },
+            {
+                "_id": 1001957,
+                "name": "Necessaire",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/necessaire",
+                "children": []
+            },
+            {
+                "_id": 1001962,
+                "name": "Pochetes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/pochetes",
+                "children": []
+            },
+            {
+                "_id": 1001981,
+                "name": "Sacola Tote",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/malas-e-mochilas/sacola-tote",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1001985,
+        "name": "Moda",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/moda",
+        "children": [
+            {
+                "_id": 1001990,
+                "name": "Acessórios de Moda",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/acessorios-de-moda",
+                "children": []
+            },
+            {
+                "_id": 1002077,
+                "name": "Joias",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/joias",
+                "children": []
+            },
+            {
+                "_id": 1002253,
+                "name": "Bijuterias e Semijoias",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/bijuterias-e-semijoias",
+                "children": []
+            },
+            {
+                "_id": 1002292,
+                "name": "Gestante",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/gestante",
+                "children": []
+            },
+            {
+                "_id": 1002351,
+                "name": "Moda Íntima Feminina",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/moda-intima-feminina",
+                "children": []
+            },
+            {
+                "_id": 1002421,
+                "name": "Moda Íntima Masculina",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/moda-intima-masculina",
+                "children": []
+            },
+            {
+                "_id": 1002445,
+                "name": "Praia",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/praia",
+                "children": []
+            },
+            {
+                "_id": 1002597,
+                "name": "Relógios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/relogios",
+                "children": []
+            },
+            {
+                "_id": 1002601,
+                "name": "Roupas Femininas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/roupas-femininas",
+                "children": []
+            },
+            {
+                "_id": 1002613,
+                "name": "Roupas Infantis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/roupas-infantis",
+                "children": []
+            },
+            {
+                "_id": 1002627,
+                "name": "Roupas Masculinas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moda/roupas-masculinas",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002095,
+        "name": "Eletroportáteis",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis",
+        "children": [
+            {
+                "_id": 1002097,
+                "name": "Abr_idores Elétricos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/abr_idores-eletricos",
+                "children": []
+            },
+            {
+                "_id": 1002102,
+                "name": "Acendedores Elétricos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/acendedores-eletricos",
+                "children": []
+            },
+            {
+                "_id": 1002106,
+                "name": "Aspiradores e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/aspiradores-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1002111,
+                "name": "Batedeiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/batedeiras",
+                "children": []
+            },
+            {
+                "_id": 1002165,
+                "name": "Bebedouros e Purificadores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/bebedouros-e-purificadores",
+                "children": []
+            },
+            {
+                "_id": 1002637,
+                "name": "Cafeteiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/cafeteiras",
+                "children": []
+            },
+            {
+                "_id": 1002643,
+                "name": "Centrífugas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/centrifugas",
+                "children": []
+            },
+            {
+                "_id": 1002644,
+                "name": "Chaleiras Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/chaleiras-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1002645,
+                "name": "Chocolateira e Fondue",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/chocolateira-e-fondue",
+                "children": []
+            },
+            {
+                "_id": 1002648,
+                "name": "Chopeira",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/chopeira",
+                "children": []
+            },
+            {
+                "_id": 1002649,
+                "name": "Churrasqueiras Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/churrasqueiras-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1002650,
+                "name": "Enceradeiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/enceradeiras",
+                "children": []
+            },
+            {
+                "_id": 1002651,
+                "name": "Espremedores de Frutas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/espremedores-de-frutas",
+                "children": []
+            },
+            {
+                "_id": 1002652,
+                "name": "Facas Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/facas-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1002653,
+                "name": "Ferro de Passar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/ferro-de-passar",
+                "children": []
+            },
+            {
+                "_id": 1002656,
+                "name": "Fritadeiras Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/fritadeiras-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1002657,
+                "name": "Grill e Sanduicheiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/grill-e-sanduicheiras",
+                "children": []
+            },
+            {
+                "_id": 1002661,
+                "name": "Liqu_idificadores e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/liqu_idificadores-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1002664,
+                "name": "Máquina de Algodão Doce",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquina-de-algodao-doce",
+                "children": []
+            },
+            {
+                "_id": 1002665,
+                "name": "Máquina de Biscoito",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquina-de-biscoito",
+                "children": []
+            },
+            {
+                "_id": 1002666,
+                "name": "Máquinas de Gelo",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquinas-de-gelo",
+                "children": []
+            },
+            {
+                "_id": 1002667,
+                "name": "Máquina de Raspadinha",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquina-de-raspadinha",
+                "children": []
+            },
+            {
+                "_id": 1002668,
+                "name": "Máquinas de Costura e Bordar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquinas-de-costura-e-bordar",
+                "children": []
+            },
+            {
+                "_id": 1002669,
+                "name": "Máquinas de Cupcake e Bolos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquinas-de-cupcake-e-bolos",
+                "children": []
+            },
+            {
+                "_id": 1002670,
+                "name": "Máquinas de Waffle e Crepeiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/maquinas-de-waffle-e-crepeiras",
+                "children": []
+            },
+            {
+                "_id": 1002674,
+                "name": "Marmita Elétrica",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/marmita-eletrica",
+                "children": []
+            },
+            {
+                "_id": 1002675,
+                "name": "Mixer",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/mixer",
+                "children": []
+            },
+            {
+                "_id": 1002676,
+                "name": "Moedores e Raladores Elétricos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/moedores-e-raladores-eletricos",
+                "children": []
+            },
+            {
+                "_id": 1002677,
+                "name": "Omeleteira",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/omeleteira",
+                "children": []
+            },
+            {
+                "_id": 1002678,
+                "name": "Panelas Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/panelas-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1002679,
+                "name": "Panificadora (Máquina de Pão)",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/panificadora--maquina-de-pao-",
+                "children": []
+            },
+            {
+                "_id": 1002680,
+                "name": "Pipoqueiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/pipoqueiras",
+                "children": []
+            },
+            {
+                "_id": 1002681,
+                "name": "Processador de Alimentos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/processador-de-alimentos",
+                "children": []
+            },
+            {
+                "_id": 1002682,
+                "name": "Sorveteiras e Iogurteiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/sorveteiras-e-iogurteiras",
+                "children": []
+            },
+            {
+                "_id": 1002684,
+                "name": "Torradeiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/torradeiras",
+                "children": []
+            },
+            {
+                "_id": 1002685,
+                "name": "Vaporizadores e Higienizadores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/eletroportateis/vaporizadores-e-higienizadores",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002302,
+        "name": "Natal",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/natal",
+        "children": [
+            {
+                "_id": 1002303,
+                "name": "Árvores de Natal",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/natal/arvores-de-natal",
+                "children": []
+            },
+            {
+                "_id": 1002307,
+                "name": "Bolas de Natal",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/natal/bolas-de-natal",
+                "children": []
+            },
+            {
+                "_id": 1002312,
+                "name": "Enfeites e Decoração",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/natal/enfeites-e-decoracao",
+                "children": []
+            },
+            {
+                "_id": 1002330,
+                "name": "Iluminação de Natal",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/natal/iluminacao-de-natal",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002331,
+        "name": "Papelaria",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/papelaria",
+        "children": [
+            {
+                "_id": 1002332,
+                "name": "Álbuns e Presentes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/albuns-e-presentes",
+                "children": []
+            },
+            {
+                "_id": 1002335,
+                "name": "Apresentação e Equipamentos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/apresentacao-e-equipamentos",
+                "children": []
+            },
+            {
+                "_id": 1002347,
+                "name": "Artes & Pinturas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/artes---pinturas",
+                "children": []
+            },
+            {
+                "_id": 1002353,
+                "name": "Calculadoras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/calculadoras",
+                "children": []
+            },
+            {
+                "_id": 1002358,
+                "name": "Calendários",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/calendarios",
+                "children": []
+            },
+            {
+                "_id": 1002360,
+                "name": "Envelopes, Etiquetas e Formulários",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/envelopes-etiquetas-e-formularios",
+                "children": []
+            },
+            {
+                "_id": 1002364,
+                "name": "Escolar e Escritório",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/escolar-e-escritorio",
+                "children": []
+            },
+            {
+                "_id": 1002399,
+                "name": "Escrita & Corretivos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/escrita---corretivos",
+                "children": []
+            },
+            {
+                "_id": 1002409,
+                "name": "Mídias & Drives",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/m_idias---drives",
+                "children": []
+            },
+            {
+                "_id": 1002423,
+                "name": "Mochilas, Estojos & Lancheiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/mochilas-estojos---lancheiras",
+                "children": []
+            },
+            {
+                "_id": 1002432,
+                "name": "Papéis, Pastas & Arquivos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/papeis-pastas---arquivos",
+                "children": []
+            },
+            {
+                "_id": 1002440,
+                "name": "Placas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/placas",
+                "children": []
+            },
+            {
+                "_id": 1002443,
+                "name": "Suprimentos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/suprimentos",
+                "children": []
+            },
+            {
+                "_id": 1002444,
+                "name": "Tradutores Eletrônicos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/papelaria/tradutores-eletronicos",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002452,
+        "name": "Móveis",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/moveis",
+        "children": [
+            {
+                "_id": 1002453,
+                "name": "Área de Serviço",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/area-de-servico",
+                "children": []
+            },
+            {
+                "_id": 1002458,
+                "name": "Banheiro",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/banheiro",
+                "children": []
+            },
+            {
+                "_id": 1002462,
+                "name": "Bar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/bar",
+                "children": []
+            },
+            {
+                "_id": 1002465,
+                "name": "Colchões",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/colchoes",
+                "children": []
+            },
+            {
+                "_id": 1002485,
+                "name": "Cozinha",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/cozinha",
+                "children": []
+            },
+            {
+                "_id": 1002496,
+                "name": "Decoração",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/decoracao",
+                "children": []
+            },
+            {
+                "_id": 1002529,
+                "name": "Dormitórios e Quartos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/dormitorios-e-quartos",
+                "children": []
+            },
+            {
+                "_id": 1002545,
+                "name": "Jardim e Lazer",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/jardim-e-lazer",
+                "children": []
+            },
+            {
+                "_id": 1002557,
+                "name": "Móveis de Escritório",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/moveis-de-escritorio",
+                "children": []
+            },
+            {
+                "_id": 1002568,
+                "name": "Quarto Infantil & Bebê",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/quarto-infantil---bebe",
+                "children": []
+            },
+            {
+                "_id": 1002577,
+                "name": "Sala de Estar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/sala-de-estar",
+                "children": []
+            },
+            {
+                "_id": 1002587,
+                "name": "Sala de Jantar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/moveis/sala-de-jantar",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002477,
+        "name": "Perfumaria",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria",
+        "children": [
+            {
+                "_id": 1002480,
+                "name": "Cabelos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/cabelos",
+                "children": []
+            },
+            {
+                "_id": 1002702,
+                "name": "Casa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/casa",
+                "children": []
+            },
+            {
+                "_id": 1002715,
+                "name": "Corpo & Banho",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/corpo---banho",
+                "children": []
+            },
+            {
+                "_id": 1002771,
+                "name": "Cutelaria",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/cutelaria",
+                "children": []
+            },
+            {
+                "_id": 1002772,
+                "name": "Higiene Bucal",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/higiene-bucal",
+                "children": []
+            },
+            {
+                "_id": 1002805,
+                "name": "Higiene Íntima",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/higiene-intima",
+                "children": []
+            },
+            {
+                "_id": 1002828,
+                "name": "Lubrificantes e Preservativos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/lubrificantes-e-preservativos",
+                "children": []
+            },
+            {
+                "_id": 1002835,
+                "name": "Maquiagem",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/maquiagem",
+                "children": []
+            },
+            {
+                "_id": 1002919,
+                "name": "Para Barbear",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/para-barbear",
+                "children": []
+            },
+            {
+                "_id": 1002941,
+                "name": "Perfumes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/perfumes",
+                "children": []
+            },
+            {
+                "_id": 1002955,
+                "name": "Tratamento",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/perfumaria/tratamento",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002683,
+        "name": "Produtos de Limpeza",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/produtos-de-limpeza",
+        "children": [
+            {
+                "_id": 1002756,
+                "name": "Acessórios de Limpeza",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/produtos-de-limpeza/acessorios-de-limpeza",
+                "children": []
+            },
+            {
+                "_id": 1002768,
+                "name": "Limpeza da Casa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/produtos-de-limpeza/limpeza-da-casa",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002686,
+        "name": "Telefones e Celulares",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares",
+        "children": [
+            {
+                "_id": 1002789,
+                "name": "Acessórios para Celulares",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/acessorios-para-celulares",
+                "children": []
+            },
+            {
+                "_id": 1002806,
+                "name": "Celulares",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/celulares",
+                "children": []
+            },
+            {
+                "_id": 1002807,
+                "name": "Fax",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/fax",
+                "children": []
+            },
+            {
+                "_id": 1002808,
+                "name": "Rádios de Comunicação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/radios-de-comunicacao",
+                "children": []
+            },
+            {
+                "_id": 1002810,
+                "name": "Smartphones",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/smartphones",
+                "children": []
+            },
+            {
+                "_id": 1002817,
+                "name": "Smartwatches",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/smartwatches",
+                "children": []
+            },
+            {
+                "_id": 1002826,
+                "name": "Telefonia Fixa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/telefones-e-celulares/telefonia-fixa",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002697,
+        "name": "TVs",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/tvs",
+        "children": [
+            {
+                "_id": 1002837,
+                "name": "Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/tvs/acessorios",
+                "children": []
+            },
+            {
+                "_id": 1002847,
+                "name": "Conversores Digitais",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/tvs/conversores-digitais",
+                "children": []
+            },
+            {
+                "_id": 1002848,
+                "name": "Televisores",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/tvs/televisores",
+                "children": []
+            }
+        ]
+    }
+    {
+        "_id": 1002700,
+        "name": "Util_idades Domésticas",
+        "hasChildren": false,
+        "level": 1,
+        "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas",
+        "children": [
+            {
+                "_id": 1002866,
+                "name": "Acessórios e Utensílios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/acessorios-e-utensilios",
+                "children": []
+            },
+            {
+                "_id": 1002878,
+                "name": "Torneiras Elétricas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/torneiras-eletricas",
+                "children": []
+            },
+            {
+                "_id": 1002882,
+                "name": "Taças",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/tacas",
+                "children": []
+            },
+            {
+                "_id": 1002885,
+                "name": "Sobremesa, Chá e Café",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/sobremesa-cha-e-cafe",
+                "children": []
+            },
+            {
+                "_id": 1002886,
+                "name": "Utensílios Infantis",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/utensilios-infantis",
+                "children": []
+            },
+            {
+                "_id": 1002887,
+                "name": "Aparelhos de Jantar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/aparelhos-de-jantar",
+                "children": []
+            },
+            {
+                "_id": 1002899,
+                "name": "Baixelas e Travessas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/baixelas-e-travessas",
+                "children": []
+            },
+            {
+                "_id": 1002929,
+                "name": "Balanças",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/balancas",
+                "children": []
+            },
+            {
+                "_id": 1002930,
+                "name": "Bandejas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/bandejas",
+                "children": []
+            },
+            {
+                "_id": 1002932,
+                "name": "Bar",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/bar",
+                "children": []
+            },
+            {
+                "_id": 1002943,
+                "name": "Carrinho de Compras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/carrinho-de-compras",
+                "children": []
+            },
+            {
+                "_id": 1002945,
+                "name": "Churrasqueiras e Acessórios",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/churrasqueiras-e-acessorios",
+                "children": []
+            },
+            {
+                "_id": 1002951,
+                "name": "Potes",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/potes",
+                "children": []
+            },
+            {
+                "_id": 1002957,
+                "name": "Panelas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/panelas",
+                "children": []
+            },
+            {
+                "_id": 1002959,
+                "name": "Coolers",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/coolers",
+                "children": []
+            },
+            {
+                "_id": 1002961,
+                "name": "Copos",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/copos",
+                "children": []
+            },
+            {
+                "_id": 1002964,
+                "name": "Faqueiros",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/faqueiros",
+                "children": []
+            },
+            {
+                "_id": 1002982,
+                "name": "Formas e Assadeiras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/formas-e-assadeiras",
+                "children": []
+            },
+            {
+                "_id": 1002983,
+                "name": "Garrafas Térmicas e Jarras",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/garrafas-termicas-e-jarras",
+                "children": []
+            },
+            {
+                "_id": 1002984,
+                "name": "Iluminação",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/iluminacao",
+                "children": []
+            },
+            {
+                "_id": 1002992,
+                "name": "Organização",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/organizacao",
+                "children": []
+            },
+            {
+                "_id": 1002994,
+                "name": "Lavanderia e Banheiro",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/lavanderia-e-banheiro",
+                "children": []
+            },
+            {
+                "_id": 1003008,
+                "name": "Ambiente",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/ambiente",
+                "children": []
+            },
+            {
+                "_id": 1003010,
+                "name": "Mesa",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/mesa",
+                "children": []
+            },
+            {
+                "_id": 1003011,
+                "name": "Rechaud",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/rechaud",
+                "children": []
+            },
+            {
+                "_id": 1003012,
+                "name": "Cubas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/cubas",
+                "children": []
+            },
+            {
+                "_id": 1003028,
+                "name": "Cilindros e Acessórios para Massas",
+                "hasChildren": false,
+                "level": 2,
+                "url": "http://dbestshop.vtexcommercestable.com.br/util_idades-domesticas/cilindros-e-acessorios-para-massas",
+                "children": []
+            }
+        ]
+    }

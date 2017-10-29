@@ -1,0 +1,80 @@
+<div>
+    <h2>
+        <span>Categories</span>
+        <button class="btn btn-primary float-right jh-create-entity create-category" [routerLink]="['/', { outlets: { popup: ['category-new'] } }]">
+            <span class="fa fa-plus"></span>
+            <span >
+            Create new Category
+            </span>
+        </button>
+    </h2>
+    <jhi-alert></jhi-alert>
+    <div class="row">
+    </div>
+    <br/>
+    <div class="table-responsive" *ngIf="categories">
+        <table class="table table-striped">
+            <thead>
+            <tr jhiSort [(predicate)]="predicate" [(ascending)]="reverse" [callback]="transition.bind(this)">
+            <th jhiSortBy="id"><span>ID</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="name"><span>Name</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="url"><span>Url</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="parentId"><span>Parent Id</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="children"><span>Children</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="hasChildren"><span>Has Children</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="sortOrder"><span>Sort Order</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="dateAdded"><span>Date Added</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="dateModified"><span>Date Modified</span> <span class="fa fa-sort"></span></th>
+            <th jhiSortBy="status"><span>Status</span> <span class="fa fa-sort"></span></th>
+            <th></th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr *ngFor="let category of categories ;trackBy: trackId">
+                <td><a [routerLink]="['../category', category.id ]">{{category.id}}</a></td>
+                <td>{{category.name}}</td>
+                <td>{{category.url}}</td>
+                <td>{{category.parentId}}</td>
+                <td>{{category.children}}</td>
+                <td>{{category.hasChildren}}</td>
+                <td>{{category.sortOrder}}</td>
+                <td>{{category.dateAdded | date:'mediumDate'}}</td>
+                <td>{{category.dateModified | date:'mediumDate'}}</td>
+                <td>{{category.status}}</td>
+                <td class="text-right">
+                    <div class="btn-group flex-btn-group-container">
+                        <button type="submit"
+                                [routerLink]="['../category', category.id ]"
+                                class="btn btn-info btn-sm">
+                            <span class="fa fa-eye"></span>
+                            <span class="d-none d-md-inline">View</span>
+                        </button>
+                        <button type="submit"
+                                [routerLink]="['/', { outlets: { popup: 'category/'+ category.id + '/edit'} }]"
+                                replaceUrl="true"
+                                class="btn btn-primary btn-sm">
+                            <span class="fa fa-pencil"></span>
+                            <span class="d-none d-md-inline">Edit</span>
+                        </button>
+                        <button type="submit"
+                                [routerLink]="['/', { outlets: { popup: 'category/'+ category.id + '/delete'} }]"
+                                replaceUrl="true"
+                                class="btn btn-danger btn-sm">
+                            <span class="fa fa-remove"></span>
+                            <span class="d-none d-md-inline">Delete</span>
+                        </button>
+                    </div>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+        <div *ngIf="categories && categories.length">
+            <div class="row justify-content-center">
+                <jhi-item-count [page]="page" [total]="queryCount" [maxSize]="5" [itemsPerPage]="itemsPerPage"></jhi-item-count>
+            </div>
+            <div class="row justify-content-center">
+                <ngb-pagination [collectionSize]="totalItems" [maxSize]="5" [pageSize]="itemsPerPage" [(page)]="page" (pageChange)="loadPage(page)"></ngb-pagination>
+            </div>
+        </div>
+</div>

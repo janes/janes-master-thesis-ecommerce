@@ -1,6 +1,9 @@
 entity Category {
-    description String required,
-    sortOrder Integer,
+	name String required,
+	url String,
+    parentId Integer,
+    children Integer,
+    hasChildren Boolean,
     dateAdded LocalDate,
     dateModified LocalDate,
     status CategoryStatus
@@ -33,7 +36,8 @@ entity Product {
     brandId String required,
     image String required,
     dateAdded LocalDate required,
-    dateModified LocalDate
+    dateModified LocalDate,
+    categories String required
 }
 
 paginate Product with pagination
