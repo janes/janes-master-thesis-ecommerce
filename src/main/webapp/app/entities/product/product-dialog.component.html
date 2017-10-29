@@ -23,16 +23,16 @@
                 </small>
             </div>
         </div>
-        <div class="form-group">
+        <!-- <div class="form-group">
             <label class="form-control-label" for="field_ean">Ean</label>
             <input type="text" class="form-control" name="ean" id="field_ean"
                 [(ngModel)]="product.ean"  />
-        </div>
-        <div class="form-group">
+        </div> -->
+        <!-- <div class="form-group">
             <label class="form-control-label" for="field_keywords">Keywords</label>
             <input type="text" class="form-control" name="keywords" id="field_keywords"
                 [(ngModel)]="product.keywords"  />
-        </div>
+        </div> -->
         <div class="form-group">
             <label class="form-control-label" for="field_description">Description</label>
             <input type="text" class="form-control" name="description" id="field_description"
@@ -44,11 +44,11 @@
                 </small>
             </div>
         </div>
-        <div class="form-group">
+       <!--  <div class="form-group">
             <label class="form-control-label" for="field_rating">Rating</label>
             <input type="number" class="form-control" name="rating" id="field_rating"
                 [(ngModel)]="product.rating"  />
-        </div>
+        </div> -->
         <div class="form-group">
             <label class="form-control-label" for="field_brandName">Brand Name</label>
             <input type="text" class="form-control" name="brandName" id="field_brandName"
@@ -60,7 +60,7 @@
                 </small>
             </div>
         </div>
-        <div class="form-group">
+        <!-- <div class="form-group">
             <label class="form-control-label" for="field_brandId">Brand Id</label>
             <input type="text" class="form-control" name="brandId" id="field_brandId"
                 [(ngModel)]="product.brandId" required />
@@ -70,27 +70,22 @@
                    This field is required.
                 </small>
             </div>
-        </div>
-        
-      <!--   <div class="form-group" *ngFor="let image of product.images ;trackBy: trackId">
-                <td><a [routerLink]="['../product', product.id ]">{{product.id}}</a></td>
-                	<div class="container">
-            			<img [src]="image.uRL" />
-					</div>
         </div> -->
         
         <div class="container" *ngFor="let image of product.images ;trackBy: trackId">
             <!-- <label class="form-control-label" for="field_image">Image</label> -->
             <div class="row">
-            	<label for="field_image_disabled{{image.id}}">Desabilitado</label>
-            	<input type="checkbox" [checked]="image.disabled" (change)="image.disabled = !image.disabled" class="content col-sm-4" name="image" id="field_image_disabled{{image.id}}"
-                	required />
-            	<div class="content col-sm-8" >
-            		<img [src]="image.url" />
+            	<!-- <label for="field_image_disabled{{image.id}}">Desabilitado</label> -->
+            	<div class="content col-sm-8" [ngClass]="{ 'transparent': image.disabled == true }" >
+                	<label for="field_image_disabled{{image.id}}">
+            			<img [src]="image.url" />
+            		</label>	
 				</div>
+            	<input type="checkbox" [checked]="image.disabled" (change)="image.disabled = !image.disabled" class="content col-sm-4" name="image" id="field_image_disabled{{image.id}}"
+                	required visible="false"  display="none" style="display:none;" />
 			</div>
         </div>
-        <div class="form-group">
+       <!--  <div class="form-group">
             <label class="form-control-label" for="field_dateAdded">Date Added</label>
             <div class="input-group">
                 <input id="field_dateAdded" type="text" class="form-control" name="dateAdded" ngbDatepicker  #dateAddedDp="ngbDatepicker" [(ngModel)]="product.dateAdded"
@@ -126,7 +121,7 @@
                    This field is required.
                 </small>
             </div>
-        </div>
+        </div> -->
 
     </div>
     <div class="modal-footer">
