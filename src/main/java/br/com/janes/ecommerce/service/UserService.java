@@ -112,7 +112,7 @@ public class UserService {
         return newUser;
     }
 
-    public User createUser(UserDTO userDTO) {
+    /*public User createUser(UserDTO userDTO) {
         User user = new User();
         user.setLogin(userDTO.getLogin());
         user.setFirstName(userDTO.getFirstName());
@@ -138,7 +138,7 @@ public class UserService {
         userRepository.save(user);
         log.debug("Created Information for User: {}", user);
         return user;
-    }
+    }*/
 
     /**
      * Update basic information (first name, last name, email, language) for the current user.

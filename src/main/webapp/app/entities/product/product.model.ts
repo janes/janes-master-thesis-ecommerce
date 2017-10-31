@@ -1,4 +1,5 @@
 import { BaseEntity } from './../../shared';
+import { Image } from './../image';
 
 export class Product implements BaseEntity {
     constructor(
@@ -14,6 +15,7 @@ export class Product implements BaseEntity {
         public dateAdded?: any,
         public dateModified?: any,
         public categories?: string,
+        public images?: Image,
     ) {
     }
 }

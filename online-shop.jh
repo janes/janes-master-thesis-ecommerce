@@ -15,7 +15,6 @@ enum CategoryStatus {
 
 entity Image {
 	id String required,
-	FileId Integer required, 
     url String required,
     productId String required,
     disabled Boolean required
